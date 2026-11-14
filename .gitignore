@@ -1,0 +1,5 @@
+# Kit material and archives: not part of the entry.
+free-model-aggregator-01-kit/
+kit.tar.gz
+# makefun tool state (anchor, wallet): never committed.
+.makefun/
